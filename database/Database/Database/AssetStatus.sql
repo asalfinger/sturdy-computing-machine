@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[AssetStatus]
+(
+	[Id] BIGINT NOT NULL IDENTITY,
+	CONSTRAINT [PK_AssetStatus] PRIMARY KEY ([Id])
+)
